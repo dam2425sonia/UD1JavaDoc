@@ -1,7 +1,10 @@
 # Generación de documentación con Javadoc en VS Code
 
-Este proyecto demuestra cómo generar documentación con **Javadoc** en **Java** usando **Visual Studio Code**.  
+Este proyecto muestra cómo generar documentación con **Javadoc** en **Java** usando **Visual Studio Code**.  
 Incluye ejemplos, comandos y una configuración opcional para automatizar la generación.
+
+Recuerda
+Comentario Javadoc	/** comentario */	Documentación formal que puede ser procesada por Javadoc
 
 ---
 
