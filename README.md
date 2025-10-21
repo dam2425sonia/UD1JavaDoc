@@ -100,6 +100,12 @@ Si tu proyecto tiene varios archivos Java dentro de una carpeta `src/`, puedes d
 javadoc -d docs -author -version src/*.java
 ```
 
+Si solo tengo una clase y quieres probar, haz esto:
+
+```bash
+javadoc -d doc Calculadora.java
+```
+
 ---
 
 ## ⚡ Automatizar en VS Code

@@ -13,14 +13,6 @@
  */
 public class Calculadora {
 
-    public static void main(String[] args) {
-        Calculadora calc = new Calculadora();
-        System.out.println("Suma: " + calc.sumar(5, 3));
-        System.out.println("Resta: " + calc.restar(10, 4));
-        System.out.println("Multiplicación: " + calc.multiplicar(6, 2));
-        System.out.println("División: " + calc.dividir(8, 2));
-    }
-
     /**
      * Suma dos números enteros.
      * 
